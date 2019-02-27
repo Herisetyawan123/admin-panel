@@ -1,0 +1,6 @@
+http://www.malasngoding.com/index.php
+http://www.malasngoding.com/admin
+http://www.malasngoding.com/cpanel
+http://www.malasngoding.com/login
+http://www.malasngoding.com/wp-login.php
+http://www.malasngoding.com/admin/
